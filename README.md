@@ -9,4 +9,4 @@
 6. SRAM Cell
 7. Instruction Register
 ## Microprocessor Given below:
-![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/43ce154aacb5d0400aadab9f6286741ef86d3761/Processor.jpg)
+![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/43ce154aacb5d0400aadab9f6286741ef86d3761/Processor.jpg width="500")
