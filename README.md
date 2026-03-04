@@ -16,4 +16,5 @@
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/84596d5f4c01d8f31f9a0840a7f439ee0a208a55/ALU.png)
 ## Program Counter
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/84596d5f4c01d8f31f9a0840a7f439ee0a208a55/ALU.png)
-
+## Decoder
+![image alt]()
