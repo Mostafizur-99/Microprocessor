@@ -8,3 +8,5 @@
 5. SRAM
 6. SRAM Cell
 7. Instruction Register
+## Microprocessor Given below:
+![image alt]()
