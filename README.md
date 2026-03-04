@@ -12,3 +12,5 @@
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/43ce154aacb5d0400aadab9f6286741ef86d3761/Processor.jpg)
 ## Register
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/e26737294663d478443d20bd3560d2d06eb29877/Register.png)
+## Arithmatic Logic Unit
+
