@@ -18,3 +18,5 @@
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/84596d5f4c01d8f31f9a0840a7f439ee0a208a55/ALU.png)
 ## Decoder
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/28d0fc0f03b86679f8fe7f78166b45a561a59895/Decoder.png)
+## RAM_16 bit
+![]()
