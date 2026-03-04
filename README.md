@@ -23,5 +23,5 @@
 ## SRAM_Cell
 ![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/f9c510c99c2dc05e7dbf722535edc25ac60ad3bd/SRAM_Cell.png)
 ## Instruction Register
-![image alt]()
+![image alt](https://github.com/Mostafizur-99/Microprocessor/blob/1f5b1264916e7c41cb50814a98fa8198549e3cab/instruction%20register.png)
 
