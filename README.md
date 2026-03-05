@@ -1,5 +1,5 @@
 # Microprocessor
-## Intel 8086
+## Simple as Possible (SAP-1)
 ### It consists of multiple parts: 
 1. Register
 2. Arithmatic Logic unit
